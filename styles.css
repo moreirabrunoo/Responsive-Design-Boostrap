@@ -1,0 +1,9 @@
+
+@media (max-width: 768px) {
+    .accordion {
+        display: none;
+    }
+    .navbar-toggler {
+        display: block;
+    }
+}
